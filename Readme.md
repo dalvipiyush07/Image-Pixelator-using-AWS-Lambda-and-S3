@@ -83,9 +83,9 @@ Source Bucket: my-source-images-bucket-piyush/get.jpg
 ![](./img/get.jpg)
 
 Processed Bucket: my-pixelated-images-bucket-piyush/
-```
+
 ![](./img/pixelated-48x48-get%20(1).jpg)
-```
+
 
 Each file is more pixelated (blurred) than the one before.
 
@@ -130,3 +130,4 @@ Cloud | DevOps | AWS | Serverless Projects
 
 This project shows how to use AWS Lambda, S3, and IAM to build an automatic image-processing system.
 It is simple, fast, and completely serverless — great for learning AWS automation.
+
